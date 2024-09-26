@@ -32,23 +32,10 @@ JavaScript: Implemented interactive features like smooth scrolling, form validat
 Conclusion
 This portfolio page effectively highlights my skills and projects while providing a user-friendly experience. It serves as a digital resume to attract potential employers and clients, showcasing my capabilities as a web developer.
 
-Live Demo
-View Live Demo
+![image](https://github.com/user-attachments/assets/2cd4cb95-206d-4daa-94e9-ed85a915ed59)
 
-Installation
-To run this project locally, follow these steps:
+![image](https://github.com/user-attachments/assets/17a21a17-3bb6-4316-8692-7f8d72d0a62e)
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/portfolio-page.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd portfolio-page
-Open index.html in your web browser.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
